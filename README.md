@@ -1,4 +1,4 @@
-# Predicting-Energy-Consumption-oF-Building
+# Predicting-Energy-Consumption-Of-Building
 1) Problem Statement
     In the competition hosted on 'https://www.drivendata.org', challenge was to predict energy comsumption of building given past consumption history of building. Apart from consumption history other data like temparature, surface area of building are also given.
 2) Model structure
